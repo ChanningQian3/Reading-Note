@@ -1,40 +1,44 @@
-critical & first principle thinking
-who wrote the software running in your head? are you sure you acctually want it? -- elon musk
+引言
+如果我们的大脑是一台计算机，是谁为我们的大脑写好了程序？我确定这一套程序是我想要的吗？
+-- elon musk. critical & first principle thinking
 
-我们没有经历过 thinking 训练，我们是书本，电视，父母老师的镜像,我们正在鹦鹉学舌
+我们自主意识处理信息的能力是 50bits/s, 无意识或者潜意识处理信息的速度是 11 milion bits/s; 也就是生活中很多的决策来自于潜意识：
+(潜意识：我想吃炸鸡和自主，自主意识，自己做一份干净的晚餐有利于身材管理目标)
+如果我要改善自己的生活，就需要使用有限的自主意识来对潜意识进行重新塑造(reprogram),让潜意识指向向上的方向而不是堕入的方向，潜意识方向正确，成功是自然的；
 
-conscious mind： 50bits/s   unconscious mind： 11 milion bits/s，如果你要改变你的生活，你需要用
-有限的 conscious mind 来 reprogram unconscious mind. program unconscious mind towards success,
-you will reach success automaitically
-(很多人一出生的时候就被编程好了，稳定工作，相夫教子，最终的导向是完全的平庸)
+潜意识的形成
 
-总结： 这是 social matrix
+我们大多数人是没有经历良好的思考训练的，我们是书本，电视，父母，老师的拷贝，我们的潜意识被编程好了，学习工作交付，最终导向这一套程序的平均值，平庸。
+社会赋予了我们一套基本流程(social matrix)
 
+1. 一切起源于我们的父母
+他们无意识的传递世界观，信仰或者偏见给我们，幼崽为了生存一定会遵守父母的框架，这首先是一种高效的生存策略，高效的规避成长过程中存在的危险，其次也写入了一套很难被突破的潜意识，举例：
+节省与保守：储蓄与避免杠杆的行为习惯使我免于财务危机
+隐忍与不要和上级作对：避免与他人的意见冲突，立场不坚定
 
-1. It starts with our parents.
-父母被前一代人 brain washed, 他们无意识的传递 world view, biases(偏见) and beliefs，并且只有当你站在
-与他们同一个阵营的时候他们才会 love and approve you, 你为了生存会 conform,否则容易 kick out, parents
-get their information from the same system
+2. 语言造就了一大潜意识，藏在背后的文化价值和规范无时无刻在决定着我们的思考
+父母只用中文，底层思维里一定有无规矩不成方圆，有冤要青天大老爷做主
+吾辈大多多学了个英文，于是有了 freedom and democracy（民主自由），multiple value(多元价值，包括同性，丁克等)
 
-2. early childhood conditioning
-Language shapes and limits what you can think!!!
-文化价值和规范根植在你的 head before you can think critically
+3. 公共教育是植入标准化程序
+教育是一个维持社会高效稳定运转，避免动荡的解决方案，是标准化思维，仅通过公共教育会成为平凡的大多数(无贬义)
+自我教育能完成个人生命探索
 
-3. 公共教育通常是为了加强服从性
-教育模式是一个长期的解决方案来处理社会动荡，通过标准化思维
-(我们被教育过如何 thinking 吗)
-
-4. information sources and authority, survial depends on conformity
-5. social media and AI amplify unconsciousness,media and enterainmnet further shape your beliefs and desires 
+4. 社交媒体加剧了我们的无意识
+过往宗教规范是典型的为大脑植入潜意识，规定的时间礼拜，规定的时间供奉，大部分人跟随规章制度
+现在的社交媒体更隐晦，商业和短视频包装下，财务是每个人都追随的目标，拥有某个物件等于成为某类群体
+锻炼自己的洞察力，如
 
 金句：the healthcare system profits from illness not health
 
-6. social religious and cultural rituals reinforce group identity
-7. matirx 是一个无穷回圈，我们在这里寻找 information and validation
-8. 我们被鼓励遵循而不是 question
-9. 我们再次传递给下一代
+5. 我们会把这一个潜意识继续往下一代传递，形成一个无限循环，在这一个框架内，我们被鼓励遵循而不是质问；
+再一次说明，这是一种高效的生存和社会运转机制，并无褒贬；
+不过我们潜意识完全服从这个框架将会无法突破，所以可以用有限的自主意识来重新编辑自己的潜意识框架，有机会让自己在大众的这条曲线中出来，
+获得一条更好更高的成长曲线(当然也可能更糟比如创业破产，anyway 这是你自主的做了突破的人生)
+
 
 How to escape the matrix?(reprogram your mind for success)
+怎样来编辑你的潜意识来获取成功呢？
 
 1. 我们的大脑渴望 order and certainty,这也就是为什么我们很容易被影响，我们追求世俗意义上的目标
 你需要把世俗意义上的目标(上学，工作，退休) 换成你自己 generate 的 meaningful 目标；
